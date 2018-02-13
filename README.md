@@ -1,1 +1,2 @@
-﻿Разбираемся с работой в Github
+Полезные рессурсы
+https://superdevresources.com/open-source-html5-games/ исходники
